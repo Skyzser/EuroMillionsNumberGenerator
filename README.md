@@ -5,4 +5,6 @@ API: https://euromillios-api.readme.io/reference/get_draws-1
 
 **NOTE**: Uses data on the winners since 13 Feb 2004 until present day.
 
-`npm start` to run.
+# Setup
+- `npm i` to install all dependencies.
+- In root directory of project, `npm start` to run.
