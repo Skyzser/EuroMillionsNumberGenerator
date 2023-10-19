@@ -1,0 +1,15 @@
+{
+  "name": "euromillionsnumbergenerator",
+  "version": "1.0.0",
+  "description": "Using a list of Euro Millions winners and the numbers they chose, generates a list of the most frequently picked winner numbers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
